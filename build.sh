@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t arkaniad/supervisor .
+docker build -t arkaniad/supervisord .
